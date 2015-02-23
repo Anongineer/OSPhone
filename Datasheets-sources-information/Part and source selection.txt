@@ -1,0 +1,5 @@
+Processor: MCIMX6Q5EYM10AC		http://www.digikey.com/product-detail/en/MCIMX6Q5EYM10AC/MCIMX6Q5EYM10AC-ND/3831436
+RAM: AS4C128M16D3L-12BCN		http://www.digikey.com/product-detail/en/AS4C128M16D3L-12BCN/1450-1085-ND/4844153
+PWR: ISL6236AIRZ				http://avnetexpress.avnet.com/store/em/EMController/Soft-Switching-PWM-Controller/Intersil/ISL6236AIRZ/_/R-8074022/A-8074022/An-0?action=part&catalogId=500201&langId=-1&storeId=500201
+Gigabit ethernet:KSZ9021RN		http://www.digikey.com/product-detail/en/KSZ9021RN/576-3637-ND/2184487	
+CODEC: SSM2603CPZ-REEL7			http://www.digikey.com/product-detail/en/SSM2603CPZ-REEL7/SSM2603CPZ-REEL7CT-ND/4162383
